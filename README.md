@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Data analysis using ML and visualizing techniques
 - 💞️ I’m looking to collaborate on any ML project
 - 📫 How to reach me a simple hi would do through LinkedIn ;)
-- 😄 Pronouns: always/hungry
-- ⚡ Fun fact: I believe cats can talk
+- ⚡ Fun fact: I believe everything is about data
 
 <!---
 omaimachaari/omaimachaari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
